@@ -4,7 +4,7 @@ They will be covering most of the main aspects of learning data analysis and man
 
 <br>
 
-1- The Data Preparation and Visualization was done on the "Superstore Sales Dataset" obtained from Kaggle website, and can be found from the following link:
+1- The Data Preparation and Visualization was done on the "Superstore Sales Dataset" obtained from Kaggle website, and can be found from the following link:<br>
 https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 <br>
