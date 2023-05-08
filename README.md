@@ -1,6 +1,6 @@
 # Data-Analysis-using-Python-Educational-Notebooks-
 These notebooks are for educational purposes. 
-They will be covering most of the main aspects of learning data analysis using Python.
+They will be covering most of the main aspects of learning data analysis and manipulation using Python.
 
 
 1- The Data Preparation and Visualization was done on the "Superstore Sales Dataset" obtained from Kaggle website, and can be found from the following link:
