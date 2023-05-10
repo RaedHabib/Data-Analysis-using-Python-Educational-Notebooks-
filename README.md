@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 2- Data Preprocessing was done on both datasets the "Telecom Company Churn Rate, Call Center Data" and the "California Housing Prices" obtained from Kaggle website, and both can be found from the following links:<br>
 https://www.kaggle.com/datasets/datazng/telecom-company-churn-rate-call-center-data
 https://www.kaggle.com/datasets/camnugent/california-housing-prices <br>
-The "Telecom Company Churn Rate, Call Center Data" dataset used in this project is a bit modified (by adding some noise to remove some missing values) and that modification can be found at this link: <br>
+The "Telecom Company Churn Rate, Call Center Data" dataset used in this project is a bit modified (by adding some noise to remove some values to be missing) and that modification can be found at this link: <br>
 https://www.kaggle.com/datasets/alimohamedhashish/customer-modified-with-noise
 
 
